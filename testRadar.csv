@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
-NET Core,Retire,COTS,TRUE,test
+"NET Core",Retire,COTS,TRUE,test
 Socrata,Evaluate,Tyler,TRUE,test
 AccessGov,Adopt,NIC,TRUE,test
 AppEngine,Hold,NIC,TRUE,test
