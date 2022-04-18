@@ -1,6 +1,6 @@
 name,ring,quadrant,isNew,description
-.NET Core,Retire,COTS,TRUE,<p>.NET Core had been around for a long time and is now EOL. .NET Framework is the new stack proposed by MSFT</p>
-Socrata,Evaluate,Tyler,TRUE,<p>A number of state enterprises are looking at the use of serverless technologies in Azure and AWS </p>
-AccessGov,Adopt,NIC,TRUE,<p>AccessGov is being adopted by multiple SEs and some are looking at it to replace AppEngine </p>
-AppEngine,Hold,NIC,TRUE,<p>Most are holding to see what the future holds for AppEngine and AccessGov</p>
-SalesForce,Evaluate,SaaS,TRUE,<p>State Agencies increasing adoption of SF and integration is expecte to be needed eventually </p>
+.NET Core,Retire,COTS,TRUE,test
+Socrata,Evaluate,Tyler,TRUE,test
+AccessGov,Adopt,NIC,TRUE,test
+AppEngine,Hold,NIC,TRUE,test
+SalesForce,Evaluate,SaaS,TRUE,test
