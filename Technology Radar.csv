@@ -29,7 +29,7 @@ Laravel,Evaluate,Development/Frameworks,TRUE,Laravel PHP Framework
 Perl,Hold,Development/Frameworks,TRUE,Perl
 PHP,Hold,Development/Frameworks,TRUE,PHP
 Python,Adopt,Development/Frameworks,TRUE,Python
-Ruby on Rails,Adopt,Development/Frameworks,TRUE,Ruby on Rails
+Ruby on Rails,Hold,Development/Frameworks,TRUE,Ruby on Rails
 Spring Boot,Adopt,Development/Frameworks,TRUE,Spring Boot
 CAS,Hold,IAM,TRUE,CAS
 Devise,Hold,IAM,TRUE,Devise
@@ -47,7 +47,7 @@ Secure ID,Hold,IAM,TRUE,Secure ID
 Spring Security,Hold,IAM,TRUE,Spring Security
 TID-W,Evaluate,IAM,TRUE,TID-W
 Apache,Adopt,Tools/Techniques,TRUE,Apache
-Cerberus FTP,Adopt,Tools/Techniques,TRUE,Cerberus FTP
+Cerberus FTP,Hold,Tools/Techniques,TRUE,Cerberus FTP
 Google Analytics 4,Evaluate,Tools/Techniques,TRUE,Google Analytics 4
 Google Universal Analytics,Hold,Tools/Techniques,TRUE,Google Universal Analytics
 Phusion Passenger,Hold,Tools/Techniques,TRUE,Phusion Passenger
@@ -60,7 +60,7 @@ Flutter,Adopt,Development/Frameworks,TRUE,Flutter
 Ionic,Adopt,Development/Frameworks,TRUE,Ionic
 Native Mobile,Adopt,Development/Frameworks,TRUE,Native Mobile
 React Native,Adopt,Development/Frameworks,TRUE,React Native
-Xamarin,Adopt,Development/Frameworks,TRUE,Xamarin
+Xamarin,Hold,Development/Frameworks,TRUE,Xamarin
 Cronitor,Adopt,Tools/Techniques,TRUE,Cronitor
 New Relic,Adopt,Tools/Techniques,TRUE,New Relic
 UptimeRobot,Adopt,Tools/Techniques,TRUE,UptimeRobot
