@@ -26,8 +26,8 @@ Groovy on Grails,Adopt,Development/Frameworks,TRUE,Groovy on Grails
 Java,Adopt,Development/Frameworks,TRUE,Java
 Java MVC Struts,Adopt,Development/Frameworks,TRUE,Java MVC Struts
 Laravel,Adopt,Development/Frameworks,TRUE,Laravel
-Perl,Adopt,Development/Frameworks,TRUE,Perl
-PHP,Adopt,Development/Frameworks,TRUE,PHP
+Perl,Hold,Development/Frameworks,TRUE,Perl
+PHP,Hold,Development/Frameworks,TRUE,PHP
 Python,Adopt,Development/Frameworks,TRUE,Python
 Ruby on Rails,Adopt,Development/Frameworks,TRUE,Ruby on Rails
 Spring Boot,Adopt,Development/Frameworks,TRUE,Spring Boot
