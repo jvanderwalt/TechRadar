@@ -25,7 +25,7 @@ SQLite,Adopt,Data/Content,TRUE,SQLite
 Groovy on Grails,Adopt,Development/Frameworks,TRUE,Groovy on Grails
 Java,Adopt,Development/Frameworks,TRUE,Java
 Java MVC Struts,Adopt,Development/Frameworks,TRUE,Java MVC Struts
-Laravel,Adopt,Development/Frameworks,TRUE,Laravel
+Laravel,Evaluate,Development/Frameworks,TRUE,Laravel
 Perl,Hold,Development/Frameworks,TRUE,Perl
 PHP,Hold,Development/Frameworks,TRUE,PHP
 Python,Adopt,Development/Frameworks,TRUE,Python
