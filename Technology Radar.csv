@@ -1,10 +1,10 @@
 name,ring,quadrant,isNew,description
-TID-C,Evaluate,IAM,TRUE,TID-C
 Elasticache,Adopt,Data/Content,TRUE,Elasticache
+TID-C,Evaluate,IAM,TRUE,TID-C
+Microsoft Sharepoint,Hold,Data/Content,TRUE,Microsoft Sharepoint
 Memcached,Adopt,Data/Content,TRUE,Memcached
 Redis,Adopt,Data/Content,TRUE,Redis
 AWS Cloudfront,Adopt,Data/Content,TRUE,AWS Cloudfront
-Microsoft Sharepoint,Hold,Data/Content,TRUE,Microsoft Sharepoint
 Custom Developed CMS,Retire,Data/Content,TRUE,Custom Developed CMS
 Drupal,Adopt,Data/Content,TRUE,Drupal
 SiteCore,Adopt,Data/Content,TRUE,SiteCore

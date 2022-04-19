@@ -1,9 +1,9 @@
 name,ring,quadrant,isNew,description
-DataDog,Evaluate,COTS,TRUE,DataDog
 AccessGov,Adopt,NIC,TRUE,AccessGov
+Microsoft Exchange,Endure,COTS,TRUE,Microsoft Exchange
+DataDog,Evaluate,COTS,TRUE,DataDog
 Funnelback,Evaluate,COTS,TRUE,Funnelback
 Monetra,Adopt,COTS,TRUE,Monetra
-Microsoft Exchange,Endure,COTS,TRUE,Microsoft Exchange
 MioSoft,Endure,COTS,TRUE,MioSoft
 SQUIZ,Endure,COTS,TRUE,SQUIZ
 ACH Express,Adopt,NIC,TRUE,ACH Express
