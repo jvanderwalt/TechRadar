@@ -13,7 +13,6 @@ CDB,Adopt,NIC,TRUE,CDB
 Devices Client,Hold,NIC,TRUE,Devices Client
 ELP,Adopt,NIC,TRUE,ELP
 Event Registration,Sunset,NIC,TRUE,Event Registration
-Fin Services,Adopt,NIC,TRUE,Fin Services
 Gov2Go,Adopt,NIC,TRUE,Gov2Go
 MSP,Adopt,NIC,TRUE,MSP
 NIC ID,Sunset,NIC,TRUE,NIC ID
