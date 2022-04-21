@@ -1,7 +1,7 @@
 name,ring,quadrant,isNew,description
 Elasticache,Adopt,Data/Content,TRUE,Elasticache
-TID-C,Evaluate,IAM,TRUE,TID-C
 Microsoft Sharepoint,Hold,Data/Content,TRUE,Microsoft Sharepoint
+TID-C,Evaluate,IAM,TRUE,TID-C
 Memcached,Adopt,Data/Content,TRUE,Memcached
 Redis,Adopt,Data/Content,TRUE,Redis
 AWS Cloudfront,Adopt,Data/Content,TRUE,AWS Cloudfront
