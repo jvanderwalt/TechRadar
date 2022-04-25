@@ -30,7 +30,7 @@ TPE,Adopt,NIC,TRUE,"Foundation of the NIC Payment ecosystem. Provide APIs for pa
 Vital Records,Sunset,NIC,TRUE,"Vital Records purchasing interface to support back end agency systems of record"
 Voucher Payment Service,Adopt,NIC,TRUE,"Voucher Payment Service facilitates cache payment for online transactions by creations of vouchers that could be used at partners to process payment."
 YourPassNow,Adopt,NIC,TRUE,"Sales and management of digital park passes"
-YourPassNow Mobile,Adopt,NIC,TRUE,"Mobile application for validatation of digital passes by park staff"
+YourPassNow Mobile,Adopt,NIC,TRUE,"Mobile application for validatation of digital passes by park employees"
 Acquia Drupal,Adopt,SAAS,TRUE,"Acquia Drupal"
 Apple Business Chat,Adopt,SAAS,TRUE,"Apple Business Chat"
 Azure Bot Services,Adopt,SAAS,TRUE,"Azure Bot Services"
