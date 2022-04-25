@@ -49,7 +49,7 @@ TID-W,Evaluate,IAM,TRUE,TID-W
 Apache,Adopt,Tools/Techniques,TRUE,Apache
 Cerberus FTP,Hold,Tools/Techniques,TRUE,Cerberus FTP
 Google Analytics 4,Evaluate,Tools/Techniques,TRUE,Google Analytics 4
-Google Universal Analytics,Hold,Tools/Techniques,TRUE,Google Universal Analytics
+Google Universal Analytics,Hold,Tools/Techniques,TRUE,"Google Universal Analytics is approaching end of life. Google Analytics 4 should be considered as alternative when looking at implementing this functionality"
 Phusion Passenger,Hold,Tools/Techniques,TRUE,Phusion Passenger
 AWS SNS,Adopt,Tools/Techniques,TRUE,AWS SNS
 AWS SQS,Adopt,Tools/Techniques,TRUE,AWS SQS
