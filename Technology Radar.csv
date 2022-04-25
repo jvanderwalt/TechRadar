@@ -1,100 +1,100 @@
 name,ring,quadrant,isNew,description
-Elasticache,Adopt,Data/Content,TRUE,Elasticache
-Microsoft Sharepoint,Hold,Data/Content,TRUE,Microsoft Sharepoint
-TID-C,Evaluate,IAM,TRUE,TID-C
-Memcached,Adopt,Data/Content,TRUE,Memcached
-Redis,Adopt,Data/Content,TRUE,Redis
-AWS Cloudfront,Adopt,Data/Content,TRUE,AWS Cloudfront
-Custom Developed CMS,Sunset,Data/Content,TRUE,Custom Developed CMS
-Drupal,Adopt,Data/Content,TRUE,Drupal
-SiteCore,Adopt,Data/Content,TRUE,SiteCore
-Umbraco,Adopt,Data/Content,TRUE,Umbraco
-Wordpress,Adopt,Data/Content,TRUE,Wordpress
-DynamoDB,Adopt,Data/Content,TRUE,DynamoDB
-IndexDB,Adopt,Data/Content,TRUE,IndexDB
-MariaDB,Adopt,Data/Content,TRUE,MariaDB
-Microsoft SQL Server,Adopt,Data/Content,TRUE,Microsoft SQL Server
-Mongo DB,Adopt,Data/Content,TRUE,Mongo DB
-MySQL,Adopt,Data/Content,TRUE,MySQL
-Oracle,Hold,Data/Content,TRUE,Oracle
-PostgreSQL,Adopt,Data/Content,TRUE,PostgreSQL
-SQLite,Adopt,Data/Content,TRUE,SQLite
-.NET,Adopt,Development/Frameworks,TRUE,.NET
-.NET Core,Sunset,Development/Frameworks,TRUE,.NET Core
-.NET Framework,Adopt,Development/Frameworks,TRUE,.NET Framework
-Groovy on Grails,Adopt,Development/Frameworks,TRUE,Groovy on Grails
-Java,Adopt,Development/Frameworks,TRUE,Java
-Java MVC Struts,Adopt,Development/Frameworks,TRUE,Java MVC Struts
-Laravel,Evaluate,Development/Frameworks,TRUE,Laravel PHP Framework
-Perl,Hold,Development/Frameworks,TRUE,Perl
-PHP,Hold,Development/Frameworks,TRUE,PHP
-Python,Adopt,Development/Frameworks,TRUE,Python
-Ruby on Rails,Hold,Development/Frameworks,TRUE,Ruby on Rails
-Spring Boot,Adopt,Development/Frameworks,TRUE,Spring Boot
-CAS,Hold,IAM,TRUE,CAS
-Devise,Hold,IAM,TRUE,Devise
-ForgeRock,Hold,IAM,TRUE,ForgeRock
-HI - Lala,Hold,IAM,TRUE,HI - Lala
-Microsoft AD,Hold,IAM,TRUE,Microsoft AD
-Mini Orange SSO,Hold,IAM,TRUE,Mini Orange SSO
-MSP,Hold,IAM,TRUE,MSP
-NIC CDB,Sunset,IAM,TRUE,NIC CDB
-NIC ID,Hold,IAM,TRUE,NIC ID
-Okta,Adopt,IAM,TRUE,Okta
-Open LDAP,Hold,IAM,TRUE,Open LDAP
-Redhat IPA,Hold,IAM,TRUE,Redhat IPA
-Secure ID,Hold,IAM,TRUE,Secure ID
-Spring Security,Hold,IAM,TRUE,Spring Security
-TID-W,Evaluate,IAM,TRUE,TID-W
-Apache,Adopt,Tools/Techniques,TRUE,Apache
-Cerberus FTP,Hold,Tools/Techniques,TRUE,Cerberus FTP
-Google Analytics 4,Evaluate,Tools/Techniques,TRUE,Google Analytics 4
+Elasticache,Adopt,Data/Content,TRUE,"Elasticache"
+Microsoft Sharepoint,Hold,Data/Content,TRUE,"Microsoft Sharepoint"
+TID-C,Evaluate,IAM,TRUE,"TID-C"
+Memcached,Adopt,Data/Content,TRUE,"Memcached"
+Redis,Adopt,Data/Content,TRUE,"Redis"
+AWS Cloudfront,Adopt,Data/Content,TRUE,"AWS Cloudfront"
+Custom Developed CMS,Sunset,Data/Content,TRUE,"Custom Developed CMS"
+Drupal,Adopt,Data/Content,TRUE,"Drupal"
+SiteCore,Adopt,Data/Content,TRUE,"SiteCore"
+Umbraco,Adopt,Data/Content,TRUE,"Umbraco"
+Wordpress,Adopt,Data/Content,TRUE,"Wordpress"
+DynamoDB,Adopt,Data/Content,TRUE,"DynamoDB"
+IndexDB,Adopt,Data/Content,TRUE,"IndexDB"
+MariaDB,Adopt,Data/Content,TRUE,"MariaDB"
+Microsoft SQL Server,Adopt,Data/Content,TRUE,"Microsoft SQL Server"
+Mongo DB,Adopt,Data/Content,TRUE,"Mongo DB"
+MySQL,Adopt,Data/Content,TRUE,"MySQL"
+Oracle,Hold,Data/Content,TRUE,"Oracle"
+PostgreSQL,Adopt,Data/Content,TRUE,"PostgreSQL"
+SQLite,Adopt,Data/Content,TRUE,"SQLite"
+.NET,Adopt,Development/Frameworks,TRUE,".NET"
+.NET Core,Sunset,Development/Frameworks,TRUE,".NET Core"
+.NET Framework,Adopt,Development/Frameworks,TRUE,".NET Framework"
+Groovy on Grails,Adopt,Development/Frameworks,TRUE,"Groovy on Grails"
+Java,Adopt,Development/Frameworks,TRUE,"Java"
+Java MVC Struts,Adopt,Development/Frameworks,TRUE,"Java MVC Struts"
+Laravel,Evaluate,Development/Frameworks,TRUE,"Laravel PHP Framework"
+Perl,Hold,Development/Frameworks,TRUE,"Perl"
+PHP,Hold,Development/Frameworks,TRUE,"PHP"
+Python,Adopt,Development/Frameworks,TRUE,"Python"
+Ruby on Rails,Hold,Development/Frameworks,TRUE,"Ruby on Rails"
+Spring Boot,Adopt,Development/Frameworks,TRUE,"Spring Boot"
+CAS,Hold,IAM,TRUE,"CAS"
+Devise,Hold,IAM,TRUE,"Devise"
+ForgeRock,Hold,IAM,TRUE,"ForgeRock"
+HI - Lala,Hold,IAM,TRUE,"HI - Lala"
+Microsoft AD,Hold,IAM,TRUE,"Microsoft AD"
+Mini Orange SSO,Hold,IAM,TRUE,"Mini Orange SSO"
+MSP,Hold,IAM,TRUE,"MSP"
+NIC CDB,Sunset,IAM,TRUE,"NIC CDB"
+NIC ID,Hold,IAM,TRUE,"NIC ID"
+Okta,Adopt,IAM,TRUE,"Okta"
+Open LDAP,Hold,IAM,TRUE,"Open LDAP"
+Redhat IPA,Hold,IAM,TRUE,"Redhat IPA"
+Secure ID,Hold,IAM,TRUE,"Secure ID"
+Spring Security,Hold,IAM,TRUE,"Spring Security"
+TID-W,Evaluate,IAM,TRUE,"TID-W"
+Apache,Adopt,Tools/Techniques,TRUE,"Apache"
+Cerberus FTP,Hold,Tools/Techniques,TRUE,"Cerberus FTP"
+Google Analytics 4,Evaluate,Tools/Techniques,TRUE,"Google Analytics 4"
 Google Universal Analytics,Hold,Tools/Techniques,TRUE,"Google Universal Analytics is approaching end of life. Google Analytics 4 should be considered as alternative when looking at implementing this functionality"
-Phusion Passenger,Hold,Tools/Techniques,TRUE,Phusion Passenger
-AWS SNS,Adopt,Tools/Techniques,TRUE,AWS SNS
-AWS SQS,Adopt,Tools/Techniques,TRUE,AWS SQS
-MuleSoft,Adopt,Tools/Techniques,TRUE,MuleSoft
-Bootstrap,Adopt,Development/Frameworks,TRUE,Bootstrap
-Cordova,Adopt,Development/Frameworks,TRUE,Cordova
-Flutter,Adopt,Development/Frameworks,TRUE,Flutter
-Ionic,Adopt,Development/Frameworks,TRUE,Ionic
-Native Mobile,Adopt,Development/Frameworks,TRUE,Native Mobile
-React Native,Adopt,Development/Frameworks,TRUE,React Native
-Xamarin,Hold,Development/Frameworks,TRUE,Xamarin
-Cronitor,Adopt,Tools/Techniques,TRUE,Cronitor
-New Relic,Adopt,Tools/Techniques,TRUE,New Relic
-UptimeRobot,Adopt,Tools/Techniques,TRUE,UptimeRobot
-Android,Adopt,Tools/Techniques,TRUE,Android
-AWS Linux,Adopt,Tools/Techniques,TRUE,AWS Linux
-CentOS,Hold,Tools/Techniques,TRUE,CentOS
-iOS,Adopt,Tools/Techniques,TRUE,iOS
-Microsoft Windows,Adopt,Tools/Techniques,TRUE,Microsoft Windows
-Oracle Linux,Sunset,Tools/Techniques,TRUE,Oracle Linux
-RHEL,Sunset,Tools/Techniques,TRUE,RHEL
-Rocky Linux,Evaluate,Tools/Techniques,TRUE,Rocky Linux
-Ubuntu,Hold,Tools/Techniques,TRUE,Ubuntu
-Angular,Adopt,Development/Frameworks,TRUE,Angular
-Bootstrap,Adopt,Development/Frameworks,TRUE,Bootstrap
-Java Script,Adopt,Development/Frameworks,TRUE,Java Script
-JQuery,Adopt,Development/Frameworks,TRUE,JQuery
-JSF,Adopt,Development/Frameworks,TRUE,JSF
-Knockout,Adopt,Development/Frameworks,TRUE,Knockout
-NodeJS,Adopt,Development/Frameworks,TRUE,NodeJS
-React,Adopt,Development/Frameworks,TRUE,React
-Vue JS,Adopt,Development/Frameworks,TRUE,Vue JS
-ART,Hold,Tools/Techniques,TRUE,ART
-JasperSoft,Hold,Tools/Techniques,TRUE,JasperSoft
-Microsoft SSRS,Hold,Tools/Techniques,TRUE,Microsoft SSRS
-Socrata,Evaluate,Tools/Techniques,TRUE,Socrata
-Tableau,Evaluate,Tools/Techniques,TRUE,Tableau
-Telerik,Evaluate,Tools/Techniques,TRUE,Telerik
-Algolia,Adopt,Tools/Techniques,TRUE,Algolia
-Apache SOLR,Adopt,Tools/Techniques,TRUE,Apache SOLR
-Azure Cognitive Services,Adopt,Tools/Techniques,TRUE,Azure Cognitive Services
-Expression Engine,Adopt,Tools/Techniques,TRUE,Expression Engine
-MapBox,Adopt,Tools/Techniques,TRUE,MapBox
-MotionPoint,Adopt,Tools/Techniques,TRUE,MotionPoint
-Smartling,Adopt,Tools/Techniques,TRUE,Smartling
-Activiti,Hold,Tools/Techniques,TRUE,Activiti
-Camunda,Hold,Tools/Techniques,TRUE,Camunda
-DataDog,Evaluate,Tools/Techniques,TRUE,DataDog
+Phusion Passenger,Hold,Tools/Techniques,TRUE,"Phusion Passenger"
+AWS SNS,Adopt,Tools/Techniques,TRUE,"AWS SNS"
+AWS SQS,Adopt,Tools/Techniques,TRUE,"AWS SQS"
+MuleSoft,Adopt,Tools/Techniques,TRUE,"MuleSoft"
+Bootstrap,Adopt,Development/Frameworks,TRUE,"Bootstrap"
+Cordova,Adopt,Development/Frameworks,TRUE,"Cordova"
+Flutter,Adopt,Development/Frameworks,TRUE,"Flutter"
+Ionic,Adopt,Development/Frameworks,TRUE,"Ionic"
+Native Mobile,Adopt,Development/Frameworks,TRUE,"Native Mobile"
+React Native,Adopt,Development/Frameworks,TRUE,"React Native"
+Xamarin,Hold,Development/Frameworks,TRUE,"Xamarin"
+Cronitor,Adopt,Tools/Techniques,TRUE,"Cronitor"
+New Relic,Adopt,Tools/Techniques,TRUE,"New Relic"
+UptimeRobot,Adopt,Tools/Techniques,TRUE,"UptimeRobot"
+Android,Adopt,Tools/Techniques,TRUE,"Android"
+AWS Linux,Adopt,Tools/Techniques,TRUE,"AWS Linux"
+CentOS,Hold,Tools/Techniques,TRUE,"CentOS"
+iOS,Adopt,Tools/Techniques,TRUE,"iOS"
+Microsoft Windows,Adopt,Tools/Techniques,TRUE,"Microsoft Windows"
+Oracle Linux,Sunset,Tools/Techniques,TRUE,"Oracle Linux"
+RHEL,Sunset,Tools/Techniques,TRUE,"RHEL"
+Rocky Linux,Evaluate,Tools/Techniques,TRUE,"Rocky Linux"
+Ubuntu,Hold,Tools/Techniques,TRUE,"Ubuntu"
+Angular,Adopt,Development/Frameworks,TRUE,"Angular"
+Bootstrap,Adopt,Development/Frameworks,TRUE,"Bootstrap"
+Java Script,Adopt,Development/Frameworks,TRUE,"Java Script"
+JQuery,Adopt,Development/Frameworks,TRUE,"JQuery"
+JSF,Adopt,Development/Frameworks,TRUE,"JSF"
+Knockout,Adopt,Development/Frameworks,TRUE,"Knockout"
+NodeJS,Adopt,Development/Frameworks,TRUE,"NodeJS"
+React,Adopt,Development/Frameworks,TRUE,"React"
+Vue JS,Adopt,Development/Frameworks,TRUE,"Vue JS"
+ART,Hold,Tools/Techniques,TRUE,"ART"
+JasperSoft,Hold,Tools/Techniques,TRUE,"JasperSoft"
+Microsoft SSRS,Hold,Tools/Techniques,TRUE,"Microsoft SSRS"
+Socrata,Evaluate,Tools/Techniques,TRUE,"Socrata"
+Tableau,Evaluate,Tools/Techniques,TRUE,"Tableau"
+Telerik,Evaluate,Tools/Techniques,TRUE,"Telerik"
+Algolia,Adopt,Tools/Techniques,TRUE,"Algolia"
+Apache SOLR,Adopt,Tools/Techniques,TRUE,"Apache SOLR"
+Azure Cognitive Services,Adopt,Tools/Techniques,TRUE,"Azure Cognitive Services"
+Expression Engine,Adopt,Tools/Techniques,TRUE,"Expression Engine"
+MapBox,Adopt,Tools/Techniques,TRUE,"MapBox"
+MotionPoint,Adopt,Tools/Techniques,TRUE,"MotionPoint"
+Smartling,Adopt,Tools/Techniques,TRUE,"Smartling"
+Activiti,Hold,Tools/Techniques,TRUE,"Activiti"
+Camunda,Hold,Tools/Techniques,TRUE,"Camunda"
+DataDog,Evaluate,Tools/Techniques,TRUE,"DataDog"
