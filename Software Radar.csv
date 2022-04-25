@@ -1,73 +1,72 @@
 name,ring,quadrant,isNew,description
-AccessGov,Adopt,NIC,TRUE,AccessGov
-Microsoft Exchange,Hold,COTS,TRUE,Microsoft Exchange
-DataDog,Evaluate,COTS,TRUE,DataDog
-Funnelback,Evaluate,COTS,TRUE,Funnelback
-Monetra,Adopt,COTS,TRUE,Monetra
-MioSoft,Hold,COTS,TRUE,MioSoft
-SQUIZ,Hold,COTS,TRUE,SQUIZ
-ACH Express,Adopt,NIC,TRUE,ACH Express
-AppEngine,Hold,NIC,TRUE,AppEngine
-CCP,Adopt,NIC,TRUE,CCP
-CDB,Adopt,NIC,TRUE,CDB
-Devices Client,Hold,NIC,TRUE,Devices Client
-ELP,Adopt,NIC,TRUE,ELP
-Event Registration,Sunset,NIC,TRUE,Event Registration
-Gov2Go,Adopt,NIC,TRUE,Gov2Go
-MSP,Adopt,NIC,TRUE,MSP
-NIC ID,Sunset,NIC,TRUE,NIC ID
-NIC Wallet API,Adopt,NIC,TRUE,NIC Wallet API
-NICAD,Hold,NIC,TRUE,NICAD
-NLS,Adopt,NIC,TRUE,NLS
-OOD Licenses,Adopt,NIC,TRUE,OOD Licenses
-OOD Reservations,Sunset,NIC,TRUE,OOD Reservations
-OTC,Sunset,NIC,TRUE,OTC
-OTG Mobile Inspections,Adopt,NIC,TRUE,OTG Mobile Inspections
-OTG Pay Mobile,Adopt,NIC,TRUE,OTG Pay Mobile
-R1S Proxy,Hold,NIC,TRUE,R1S Proxy
-Recreation Dynamics,Adopt,NIC,TRUE,Recreation Dynamics
-RxGov,Adopt,NIC,TRUE,RxGov
-TPE,Adopt,NIC,TRUE,TPE
-TPE Admin,Adopt,NIC,TRUE,TPE Admin
-Vital Records,Sunset,NIC,TRUE,Vital Records
-Voucher Payment Service,Adopt,NIC,TRUE,Voucher Payment Service
-YourPassNow,Adopt,NIC,TRUE,YourPassNow
-YourPassNow Mobile,Adopt,NIC,TRUE,YourPassNow Mobile
-Acquia Drupal,Adopt,SAAS,TRUE,Acquia Drupal
-Apple Business Chat,Adopt,SAAS,TRUE,Apple Business Chat
-Azure Bot Services,Adopt,SAAS,TRUE,Azure Bot Services
-Basecamp,Adopt,SAAS,TRUE,Basecamp
-Bridge LMS,Adopt,SAAS,TRUE,Bridge LMS
-Chatbot.com,Adopt,SAAS,TRUE,Chatbot.com
-Confluence,Adopt,SAAS,TRUE,Confluence
-Cronitor,Adopt,SAAS,TRUE,Cronitor
-DataMotion,Hold,SAAS,TRUE,DataMotion
-ESRI,Adopt,SAAS,TRUE,ESRI
-HotJar,Adopt,SAAS,TRUE,HotJar
-Jira Service Managment,Adopt,SAAS,TRUE,Jira Service Managment
-LiveChat,Adopt,SAAS,TRUE,LiveChat
-MapBox,Adopt,SAAS,TRUE,MapBox
-MoveIT,Hold,SAAS,TRUE,MoveIT
-Okta,Adopt,SAAS,TRUE,Okta
-Qualtrics,Hold,SAAS,TRUE,Qualtrics
-QueueIT,Adopt,SAAS,TRUE,QueueIT
-SalesForce,Evaluate,SAAS,TRUE,SalesForce
-Secure ID,Adopt,SAAS,TRUE,Secure ID
-SendGrid,Adopt,SAAS,TRUE,SendGrid
-SmartSheet,Adopt,SAAS,TRUE,SmartSheet
-State Provide CMS,Adopt,SAAS,TRUE,State Provide CMS
-Trumba,Adopt,SAAS,TRUE,Trumba
-Twilio,Adopt,SAAS,TRUE,Twilio
-UptimeRobot,Adopt,SAAS,TRUE,UptimeRobot
-Zendesk,Adopt,SAAS,TRUE,Zendesk
-Zoho,Adopt,SAAS,TRUE,Zoho
-Cashier View,Evaluate,Tyler,TRUE,Cashier View
-CAVU,Evaluate,Tyler,TRUE,CAVU
-EnerGov,Evaluate,Tyler,TRUE,EnerGov
-EntelliTrak,Evaluate,Tyler,TRUE,EntelliTrak
-Enterprise Permitting & Licensing,Evaluate,Tyler,TRUE,Enterprise Permitting & Licensing
-Incode,Evaluate,Tyler,TRUE,Incode
-Socrata,Adopt,Tyler,TRUE,Socrata
-TID-C,Evaluate,Tyler,TRUE,TID-C
-TID-W,Evaluate,Tyler,TRUE,TID-W
-Tyler Payments,Evaluate,Tyler,TRUE,Tyler Payments
+AccessGov,Adopt,NIC,TRUE,"Cloud (Azure) hosted low code self service framework to provice citizen services and intranet services to agencies. Supports muti-instance and multi-tenant deployment. DSL based, focused on general government use."
+Microsoft Exchange,Hold,COTS,TRUE,"Microsoft Exchange"
+DataDog,Evaluate,COTS,TRUE,"DataDog"
+Funnelback,Evaluate,COTS,TRUE,"Funnelback"
+Monetra,Adopt,COTS,TRUE,"Monetra"
+MioSoft,Hold,COTS,TRUE,"MioSoft"
+SQUIZ,Hold,COTS,TRUE,"SQUIZ"
+AppEngine,Hold,NIC,TRUE,"AppEngine is a low code application development framework that supports multiple tenants. Data center hosted. No agency self service capabilites."
+CCP,Adopt,NIC,TRUE,"Online payment gateway designed to be added as a PCI Compliant SaaS component to existing ecommerce applications. "
+CDB,Adopt,NIC,TRUE,"Billing and scheduled payment component of the NIC payment ecosystem."
+Devices Client,Hold,NIC,TRUE,"Interface for swipe devices to integrate into the NIC Payment ecosystem"
+ELP,Adopt,NIC,TRUE,"Multi-tenant Cloud (AWS) hosted low code licensing application framework. DSL focused on licensing applications for government agencies."
+Event Registration,Sunset,NIC,TRUE,"Event Registration application with limited functionality"
+Gov2Go,Adopt,NIC,TRUE,"Cloud (Azure) based citizen engagement platform. Façade for profile and wallet functionality. "
+MSP,Adopt,NIC,TRUE,"Cloud (AWS) hosted micro service platform with a wide range of building blocks to support application development. Uses REST APIs and auto generate SDKs"
+NIC ID,Sunset,NIC,TRUE,"IAM solution based on NIC AD. Reuseable IAM functionality pulled from AppEngine and made available for others to use."
+NIC Wallet API,Adopt,NIC,TRUE,"Wallet (stored payment) capability used by applications where needed via API. Reduce PCI scope for applications"
+NICAD,Hold,NIC,TRUE,"NIC IAM soluction based on Azure AD. "
+NLS,Adopt,NIC,TRUE,"Licensing case management platform focused on marijuana licensing. Build on Camunda open source workflow framework. "
+OOD Licenses,Adopt,NIC,TRUE," Multi-tenant "
+OOD Reservations,Sunset,NIC,TRUE,"OOD Reservations"
+OTC,Sunset,NIC,TRUE,"OTC"
+OTG Mobile Inspections,Adopt,NIC,TRUE,"OTG Mobile Inspections"
+OTG Pay Mobile,Adopt,NIC,TRUE,"OTG Pay Mobile"
+R1S Proxy,Hold,NIC,TRUE,"R1S Proxy"
+Recreation Dynamics,Adopt,NIC,TRUE,"Recreation Dynamics"
+RxGov,Adopt,NIC,TRUE,"RxGov"
+TPE,Adopt,NIC,TRUE,"TPE"
+TPE Admin,Adopt,NIC,TRUE,"TPE Admin"
+Vital Records,Sunset,NIC,TRUE,"Vital Records"
+Voucher Payment Service,Adopt,NIC,TRUE,"Voucher Payment Service"
+YourPassNow,Adopt,NIC,TRUE,"YourPassNow"
+YourPassNow Mobile,Adopt,NIC,TRUE,"YourPassNow Mobile"
+Acquia Drupal,Adopt,SAAS,TRUE,"Acquia Drupal"
+Apple Business Chat,Adopt,SAAS,TRUE,"Apple Business Chat"
+Azure Bot Services,Adopt,SAAS,TRUE,"Azure Bot Services"
+Basecamp,Adopt,SAAS,TRUE,"Basecamp"
+Bridge LMS,Adopt,SAAS,TRUE,"Bridge LMS"
+Chatbot.com,Adopt,SAAS,TRUE,"Chatbot.com"
+Confluence,Adopt,SAAS,TRUE,"Confluence"
+Cronitor,Adopt,SAAS,TRUE,"Cronitor"
+DataMotion,Hold,SAAS,TRUE,"DataMotion"
+ESRI,Adopt,SAAS,TRUE,"ESRI"
+HotJar,Adopt,SAAS,TRUE,"HotJar"
+Jira Service Managment,Adopt,SAAS,TRUE,"Jira Service Managment"
+LiveChat,Adopt,SAAS,TRUE,"LiveChat"
+MapBox,Adopt,SAAS,TRUE,"MapBox"
+MoveIT,Hold,SAAS,TRUE,"MoveIT"
+Okta,Adopt,SAAS,TRUE,"Okta"
+Qualtrics,Hold,SAAS,TRUE,"Qualtrics"
+QueueIT,Adopt,SAAS,TRUE,"QueueIT"
+SalesForce,Evaluate,SAAS,TRUE,"SalesForce"
+Secure ID,Adopt,SAAS,TRUE,"Secure ID"
+SendGrid,Adopt,SAAS,TRUE,"SendGrid"
+SmartSheet,Adopt,SAAS,TRUE,"SmartSheet"
+State Provide CMS,Adopt,SAAS,TRUE,"State Provide CMS"
+Trumba,Adopt,SAAS,TRUE,"Trumba"
+Twilio,Adopt,SAAS,TRUE,"Twilio"
+UptimeRobot,Adopt,SAAS,TRUE,"UptimeRobot"
+Zendesk,Adopt,SAAS,TRUE,"Zendesk"
+Zoho,Adopt,SAAS,TRUE,"Zoho"
+Cashier View,Evaluate,Tyler,TRUE,"Cashier View"
+CAVU,Evaluate,Tyler,TRUE,"CAVU"
+EnerGov,Evaluate,Tyler,TRUE,"EnerGov"
+EntelliTrak,Evaluate,Tyler,TRUE,"EntelliTrak"
+Enterprise Permitting & Licensing,Evaluate,Tyler,TRUE,"Enterprise Permitting & Licensing"
+Incode,Evaluate,Tyler,TRUE,"Incode"
+Socrata,Adopt,Tyler,TRUE,"Socrata"
+TID-C,Evaluate,Tyler,TRUE,"TID-C"
+TID-W,Evaluate,Tyler,TRUE,"TID-W"
+Tyler Payments,Evaluate,Tyler,TRUE,"Tyler Payments"
