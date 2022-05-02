@@ -69,4 +69,4 @@ Socrata,Adopt,Tyler,TRUE,Socrata
 TID-C,Evaluate,Tyler,TRUE,TID-C
 TID-W,Evaluate,Tyler,TRUE,TID-W
 Tyler Payments,Evaluate,Tyler,TRUE,Tyler Payments
-Stackshare.io,Evaluate,SAAS,TRUE,"Easily map out which open source & SaaS solutions are being used across your engineering teams, why they're being used, and who someone should talk to about each technology."
+Stackshare.io,Evaluate,SAAS,TRUE,"Easily map out which 3rd party or open source libraries & SaaS solutions are being used across your engineering teams, why they're being used, and who someone should talk to about each technology. Technology mapping to Tech Radar is also done to indicate lifecycle of the tech and guide product roadmap."
