@@ -1,71 +1,72 @@
 name,ring,quadrant,isNew,description
 AccessGov,Adopt,NIC,TRUE,"AccessGov is a low-code, self-service tool designed to simplify the common tasks of collecting & processing data related to digital government transactions. Originally developed by the Montana team, AccessGov is maintained and enhanced by the Licensing Vertical team in the NIC division. Using a low-code tool can reduce maintenance challenges with custom-developed web applications and allows easier sharing of those forms across state enterprises. This can speed up the time to deliver a service and even put control of that service in the hands of our state partners through the self-service console. AccessGov is delivered through Azure and can scale to meet the needs of any state enterprise. This puts it as the go-to solution for quick forms and part of the NIC Enterprise Foundation Platform."
-Microsoft Exchange,Hold,COTS,TRUE,"Microsoft Exchange"
-DataDog,Evaluate,COTS,TRUE,"DataDog"
-Funnelback,Evaluate,COTS,TRUE,"Funnelback"
-Monetra,Adopt,COTS,TRUE,"Monetra"
-MioSoft,Hold,COTS,TRUE,"MioSoft"
-SQUIZ,Hold,COTS,TRUE,"SQUIZ"
+Microsoft Exchange,Hold,COTS,TRUE,"Microsoft Exchange  is a solution that delivers email, calendar, contacts, and tasks from PCs, the web, and mobile devices.  The Infrastrubure group manages Exchange.  Exchange is one of the  primary communication tools at the company.  "
+DataDog,Evaluate,COTS,TRUE,"Datadog is an observability service for cloud-scale applications, providing monitoring of servers, databases, tools, and services, through a SaaS-based data analytics platform.  <<Managed by Tyler>> .   <<This is a tool for monitoring.>>"
+Funnelback,Evaluate,COTS,TRUE,Funnelback
+Monetra,Adopt,COTS,TRUE,"Monetra is a fast, efficient and secure payment application. It's designed to scale from small custom embedded devices to fully redundant payment servers processing thousands of transactions per minute. Trusted for over 20 years by thousands of merchants throughout North America, Monetra is the premier product of its type."
+MioSoft,Hold,COTS,TRUE,MioSoft
+SQUIZ,Hold,COTS,TRUE,SQUIZ
 AppEngine,Hold,NIC,TRUE,"AppEngine is a low-code tool designed to simplify the common tasks of collecting & processing data related to digital government transactions. Originally developed by the Kentucky team, AppEngine is maintained and enhanced by the Licensing Vertical team in the NIC division. Using a low-code tool can reduce maintenance challenges with custom-developed web applications and allows easier sharing of those forms across state enterprises. AppEngine is hosted the the NIC data centers. AccessGov should be considered as an alternative when implementing a low code environment."
-CCP,Adopt,NIC,TRUE,"Online payment gateway designed to be added as a PCI Compliant SaaS component to existing ecommerce applications. "
-CDB,Adopt,NIC,TRUE,"Billing and scheduled payment component of the NIC payment ecosystem."
-Devices Client,Hold,NIC,TRUE,"Interface for swipe devices to integrate into the NIC Payment ecosystem"
-ELP,Adopt,NIC,TRUE,"Multi-tenant Cloud (AWS) hosted low code licensing application framework. DSL focused on licensing applications for government agencies."
-Event Registration,Hold,NIC,TRUE,"Event Registration application with limited functionality"
-Gov2Go,Adopt,NIC,TRUE,"Cloud (Azure) based citizen engagement platform. Façade for profile and wallet functionality. "
-MSP,Adopt,NIC,TRUE,"Cloud (AWS) hosted micro service platform with a wide range of building blocks to support application development. Uses REST APIs and auto generate SDKs"
-NIC ID,Sunset,NIC,TRUE,"IAM solution based on NIC AD. Reuseable IAM functionality pulled from AppEngine and made available for others to use."
-NIC Wallet API,Adopt,NIC,TRUE,"Wallet (stored payment) capability used by applications where needed via API. Reduce PCI scope for applications"
-NICAD,Sunset,NIC,TRUE,"NIC IAM soluction based on Azure AD. "
-NLS,Adopt,NIC,TRUE,"Licensing case management platform focused on marijuana licensing. Build on Camunda open source workflow framework. "
-OOD Licenses,Adopt,NIC,TRUE,"Comprehensive multi-tenant hunting/fishing licens SaaS hosted in AWS."
-OOD Reservations,Hold,NIC,TRUE,"Campground Reservations application deployed in AWS. Should look at US eDirect as alternative if this functionality is needed"
-OTC,Adopt,NIC,TRUE,"Cashiering solution to support over the counter transactions"
-OTG Mobile Inspections,Adopt,NIC,TRUE,"Mobile Inspections application configurable for various uses. Supports ofline capability and will sync once connectivity is restored"
-OTG Pay Mobile,Adopt,NIC,TRUE,"Mobile application for processing credit/debit card payments. Can function offline"
-R1S Proxy,Hold,NIC,TRUE,"Payment Proxy to support Rec.gov only"
+CCP,Adopt,NIC,TRUE,Online payment gateway designed to be added as a PCI Compliant SaaS component to existing ecommerce applications. 
+CDB,Adopt,NIC,TRUE,Billing and scheduled payment component of the NIC payment ecosystem.
+Devices Client,Hold,NIC,TRUE,Interface for swipe devices to integrate into the NIC Payment ecosystem
+ELP,Adopt,NIC,TRUE,Multi-tenant Cloud (AWS) hosted low code licensing application framework. DSL focused on licensing applications for government agencies.
+Event Registration,Hold,NIC,TRUE,Event Registration application with limited functionality
+Gov2Go,Adopt,NIC,TRUE,Cloud (Azure) based citizen engagement platform. Façade for profile and wallet functionality. 
+MSP,Adopt,NIC,TRUE,Cloud (AWS) hosted micro service platform with a wide range of building blocks to support application development. Uses REST APIs and auto generate SDKs
+NIC ID,Sunset,NIC,TRUE,IAM solution based on NIC AD. Reuseable IAM functionality pulled from AppEngine and made available for others to use.
+NIC Wallet API,Adopt,NIC,TRUE,Wallet (stored payment) capability used by applications where needed via API. Reduce PCI scope for applications
+NICAD,Sunset,NIC,TRUE,NIC IAM soluction based on Azure AD. 
+NLS,Adopt,NIC,TRUE,Licensing case management platform focused on marijuana licensing. Build on Camunda open source workflow framework. 
+OOD Licenses,Adopt,NIC,TRUE,Comprehensive multi-tenant hunting/fishing licens SaaS hosted in AWS.
+OOD Reservations,Hold,NIC,TRUE,Campground Reservations application deployed in AWS. Should look at US eDirect as alternative if this functionality is needed
+OTC,Adopt,NIC,TRUE,Cashiering solution to support over the counter transactions
+OTG Mobile Inspections,Adopt,NIC,TRUE,Mobile Inspections application configurable for various uses. Supports ofline capability and will sync once connectivity is restored
+OTG Pay Mobile,Adopt,NIC,TRUE,Mobile application for processing credit/debit card payments. Can function offline
+R1S Proxy,Hold,NIC,TRUE,Payment Proxy to support Rec.gov only
 USeDirect,Adopt,NIC,TRUE,"Flexible reservation system that supports campgrounds, events etc. Supports back office functionality such as facilites managment, checkin etc. Point of sale module suppots inventory management and can function offline."
-RxGov,Adopt,NIC,TRUE,"Multi-instance cloud based (Azure) PDMS"
-TPE,Adopt,NIC,TRUE,"Foundation of the NIC Payment ecosystem. Provide APIs for payment processing and interfaces for management and reporting"
-Vital Records,Sunset,NIC,TRUE,"Vital Records purchasing interface to support back end agency systems of record"
-Voucher Payment Service,Adopt,NIC,TRUE,"Voucher Payment Service facilitates cache payment for online transactions by creations of vouchers that could be used at partners to process payment."
-YourPassNow,Evaluate,NIC,TRUE,"Sales and management of digital park passes"
-YourPassNow Mobile,Evaluate,NIC,TRUE,"Mobile application for validatation of digital passes by park employees"
-Acquia Drupal,Adopt,SAAS,TRUE,"Acquia Drupal"
-Apple Business Chat,Adopt,SAAS,TRUE,"Apple Business Chat"
-Azure Bot Services,Adopt,SAAS,TRUE,"Azure Bot Services"
-Basecamp,Adopt,SAAS,TRUE,"Basecamp"
-Bridge LMS,Adopt,SAAS,TRUE,"Bridge LMS"
-Chatbot.com,Adopt,SAAS,TRUE,"Chatbot.com"
-Confluence,Adopt,SAAS,TRUE,"Confluence"
-Cronitor,Adopt,SAAS,TRUE,"Cronitor"
-DataMotion,Hold,SAAS,TRUE,"DataMotion"
-ESRI,Adopt,SAAS,TRUE,"ESRI"
-HotJar,Adopt,SAAS,TRUE,"HotJar"
-Jira Service Managment,Adopt,SAAS,TRUE,"Jira Service Managment"
-LiveChat,Adopt,SAAS,TRUE,"LiveChat"
-MapBox,Adopt,SAAS,TRUE,"MapBox"
-MoveIT,Hold,SAAS,TRUE,"MoveIT"
-Okta,Adopt,SAAS,TRUE,"Okta"
-Qualtrics,Hold,SAAS,TRUE,"Qualtrics"
-QueueIT,Adopt,SAAS,TRUE,"QueueIT"
-SalesForce,Evaluate,SAAS,TRUE,"SalesForce"
-Secure ID,Adopt,SAAS,TRUE,"Secure ID"
-SendGrid,Adopt,SAAS,TRUE,"SendGrid"
-SmartSheet,Adopt,SAAS,TRUE,"SmartSheet"
-State Provide CMS,Adopt,SAAS,TRUE,"State Provide CMS"
-Trumba,Adopt,SAAS,TRUE,"Trumba"
-Twilio,Adopt,SAAS,TRUE,"Twilio"
-UptimeRobot,Adopt,SAAS,TRUE,"UptimeRobot"
-Zendesk,Adopt,SAAS,TRUE,"Zendesk"
-Zoho,Adopt,SAAS,TRUE,"Zoho"
-Cashier View,Evaluate,Tyler,TRUE,"Cashier View"
-CAVU,Evaluate,Tyler,TRUE,"CAVU"
-EnerGov,Evaluate,Tyler,TRUE,"EnerGov"
-EntelliTrak,Evaluate,Tyler,TRUE,"EntelliTrak"
-Enterprise Permitting & Licensing,Evaluate,Tyler,TRUE,"Enterprise Permitting & Licensing"
-Incode,Evaluate,Tyler,TRUE,"Incode"
-Socrata,Adopt,Tyler,TRUE,"Socrata"
-TID-C,Evaluate,Tyler,TRUE,"TID-C"
-TID-W,Evaluate,Tyler,TRUE,"TID-W"
-Tyler Payments,Evaluate,Tyler,TRUE,"Tyler Payments"
+RxGov,Adopt,NIC,TRUE,Multi-instance cloud based (Azure) PDMS
+TPE,Adopt,NIC,TRUE,Foundation of the NIC Payment ecosystem. Provide APIs for payment processing and interfaces for management and reporting
+Vital Records,Sunset,NIC,TRUE,Vital Records purchasing interface to support back end agency systems of record
+Voucher Payment Service,Adopt,NIC,TRUE,Voucher Payment Service facilitates cache payment for online transactions by creations of vouchers that could be used at partners to process payment.
+YourPassNow,Evaluate,NIC,TRUE,Sales and management of digital park passes
+YourPassNow Mobile,Evaluate,NIC,TRUE,Mobile application for validatation of digital passes by park employees
+Acquia Drupal,Adopt,SAAS,TRUE,Acquia Drupal
+Apple Business Chat,Adopt,SAAS,TRUE,Apple Business Chat
+Azure Bot Services,Adopt,SAAS,TRUE,Azure Bot Services
+Basecamp,Adopt,SAAS,TRUE,Basecamp
+Bridge LMS,Adopt,SAAS,TRUE,Bridge LMS
+Chatbot.com,Adopt,SAAS,TRUE,Chatbot.com
+Confluence,Adopt,SAAS,TRUE,Confluence
+Cronitor,Adopt,SAAS,TRUE,Cronitor
+DataMotion,Hold,SAAS,TRUE,DataMotion
+ESRI,Adopt,SAAS,TRUE,ESRI
+HotJar,Adopt,SAAS,TRUE,HotJar
+Jira Service Managment,Adopt,SAAS,TRUE,Jira Service Managment
+LiveChat,Adopt,SAAS,TRUE,LiveChat
+MapBox,Adopt,SAAS,TRUE,MapBox
+MoveIT,Hold,SAAS,TRUE,MoveIT
+Okta,Adopt,SAAS,TRUE,Okta
+Qualtrics,Hold,SAAS,TRUE,Qualtrics
+QueueIT,Adopt,SAAS,TRUE,QueueIT
+SalesForce,Evaluate,SAAS,TRUE,SalesForce
+Secure ID,Adopt,SAAS,TRUE,Secure ID
+SendGrid,Adopt,SAAS,TRUE,SendGrid
+SmartSheet,Adopt,SAAS,TRUE,SmartSheet
+State Provide CMS,Adopt,SAAS,TRUE,State Provide CMS
+Trumba,Adopt,SAAS,TRUE,Trumba
+Twilio,Adopt,SAAS,TRUE,Twilio
+UptimeRobot,Adopt,SAAS,TRUE,UptimeRobot
+Zendesk,Adopt,SAAS,TRUE,Zendesk
+Zoho,Adopt,SAAS,TRUE,Zoho
+Cashier View,Evaluate,Tyler,TRUE,Cashier View
+CAVU,Evaluate,Tyler,TRUE,CAVU
+EnerGov,Evaluate,Tyler,TRUE,EnerGov
+EntelliTrak,Evaluate,Tyler,TRUE,EntelliTrak
+Enterprise Permitting & Licensing,Evaluate,Tyler,TRUE,Enterprise Permitting & Licensing
+Incode,Evaluate,Tyler,TRUE,Incode
+Socrata,Adopt,Tyler,TRUE,Socrata
+TID-C,Evaluate,Tyler,TRUE,TID-C
+TID-W,Evaluate,Tyler,TRUE,TID-W
+Tyler Payments,Evaluate,Tyler,TRUE,Tyler Payments
+Stackshare.io,Evaluate,SAAS,TRUE,"Easily map out which open source & SaaS solutions are being used across your engineering teams, why they're being used, and who someone should talk to about each technology."
