@@ -1,4 +1,4 @@
-ame,ring,quadrant,isNew,description
+name,ring,quadrant,isNew,description
 Elasticache,Adopt,Data/Content,FALSE,"Elasticache"
 Microsoft Sharepoint,Hold,Data/Content,FALSE,"Microsoft Sharepoint"
 TID-C,Evaluate,IAM,FALSE,"TID-C"
