@@ -87,8 +87,8 @@ Smartling,Adopt,Tools/Techniques,FALSE,"Smartling"
 Socrata,Evaluate,Tools/Techniques,FALSE,"Socrata"
 Spring Boot,Adopt,Development/Frameworks,FALSE,"Spring Boot"
 Spring Security,Evaluate,IAM,FALSE,"Spring Security"
-TID-C,Evaluate,IAM,FALSE,"TID-C"
-TID-W,Evaluate,IAM,FALSE,"TID-W"
+TID-C,Adopt,IAM,FALSE,Single sign on solution developed by Tyler and based on Okta. TID-C is intended to be used for citizen IDs.
+TID-W,Adopt,IAM,FALSE,Single sign on solution developed by Tyler and based on Okta. TID-W is intended to be used for agency user IDs.
 Tableau,Evaluate,Tools/Techniques,FALSE,"Tableau"
 Telerik,Evaluate,Tools/Techniques,FALSE,"Telerik"
 Ubuntu,Hold,Tools/Techniques,FALSE,"Ubuntu"
