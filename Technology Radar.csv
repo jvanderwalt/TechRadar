@@ -18,6 +18,7 @@ Apache,Adopt,Tools/Techniques,FALSE,"Apache"
 Azure Cognitive Services,Adopt,Tools/Techniques,FALSE,"Azure Cognitive Services"
 Bootstrap,Adopt,Development/Frameworks,FALSE,"Bootstrap"
 CAS,Evaluate,IAM,FALSE,"CAS"
+AccessIndiana,Adopt,IAM,FALSE,SSO solution developed by Indiana State Enterprise
 Camunda,Hold,Tools/Techniques,FALSE,"Camunda"
 CentOS,Hold,Tools/Techniques,FALSE,"CentOS"
 Cerberus FTP,Hold,Tools/Techniques,FALSE,"Cerberus FTP"
