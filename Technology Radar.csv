@@ -18,7 +18,7 @@ Apache,Adopt,Tools/Techniques,FALSE,"Apache"
 Azure Cognitive Services,Adopt,Tools/Techniques,FALSE,"Azure Cognitive Services"
 Bootstrap,Adopt,Development/Frameworks,FALSE,"Bootstrap"
 CAS,Evaluate,IAM,FALSE,"CAS"
-AccessIndiana,Adopt,IAM,FALSE,SSO solution developed by Indiana State Enterprise
+AccessIndiana,Adopt,IAM,FALSE,SSO and IAM solution developed and maintained by Indiana State Enterprise. Should be considered as a low cost alternative to TID if price is a driver in the decision making process. TID should still be the first option to concider.
 Camunda,Hold,Tools/Techniques,FALSE,"Camunda"
 CentOS,Hold,Tools/Techniques,FALSE,"CentOS"
 Cerberus FTP,Hold,Tools/Techniques,FALSE,"Cerberus FTP"
