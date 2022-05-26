@@ -1,6 +1,0 @@
-name,ring,quadrant,isNew,description
-NET Core,retire,COTS,true,test
-Socrata,evaluate,Tyler,true,test
-AccessGov,adopt,NIC,true,test
-AppEngine,hold,NIC,true,test
-SalesForce,evaluate,SaaS,true,test
