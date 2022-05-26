@@ -1,0 +1,100 @@
+name,ring,quadrant,isNew,description
+Java 8+,Adopt,Development/Frameworks,FALSE,Java 8 is supported till 2030
+.NET Framework,Hold,Development/Frameworks,FALSE,.NET Framework 4.8 is the latest release and will continue to be supported while running on a supporting version of Windows (Windows 11). Framework will be replaced by .NET
+DataDog,Evaluate,Tools/Techniques,FALSE,DataDog
+.NET Core,Sunset,Development/Frameworks,FALSE,.NET Core 3.5 is slated for EOS on 12/31/22
+.NET,Adopt,Development/Frameworks,FALSE,.NET 6 is the latest LTS and should be considered for new development
+ART,Hold,Tools/Techniques,FALSE,ART
+AWS Cloudfront,Adopt,Data/Content,FALSE,AWS Cloudfront
+AWS Linux,Adopt,Tools/Techniques,FALSE,AWS Linux
+AWS SNS,Adopt,Tools/Techniques,FALSE,AWS SNS
+AWS SQS,Adopt,Tools/Techniques,FALSE,AWS SQS
+Activiti,Hold,Tools/Techniques,FALSE,Activiti
+Algolia,Adopt,Tools/Techniques,FALSE,Algolia
+Android,Adopt,Tools/Techniques,FALSE,Android
+Angular,Adopt,Development/Frameworks,FALSE,Angular
+Apache SOLR,Adopt,Tools/Techniques,FALSE,Apache SOLR
+Apache,Adopt,Tools/Techniques,FALSE,Apache
+Azure Cognitive Services,Adopt,Tools/Techniques,FALSE,Azure Cognitive Services
+Bootstrap,Adopt,Development/Frameworks,FALSE,Bootstrap
+CAS,Sunset,Auth/Authorization/Access,FALSE,CAS
+AccessIndiana,Adopt,Auth/Authorization/Access,FALSE,SSO and Auth/Authorization/Access solution developed and maintained by Indiana State Enterprise. Should be considered as a low cost alternative to TID if price is a driver in the decision making process. TID should still be the first option to concider.
+Camunda,Hold,Tools/Techniques,FALSE,Camunda
+CentOS,Hold,Tools/Techniques,FALSE,CentOS
+Cerberus FTP,Hold,Tools/Techniques,FALSE,Cerberus FTP
+Cordova,Adopt,Development/Frameworks,FALSE,Cordova
+Cronitor,Adopt,Tools/Techniques,FALSE,Cronitor
+Custom Developed CMS,Sunset,Data/Content,FALSE,Custom Developed CMS
+Drupal,Adopt,Data/Content,FALSE,Drupal
+DynamoDB,Adopt,Data/Content,FALSE,DynamoDB
+Elasticache,Adopt,Data/Content,FALSE,Elasticache
+Expression Engine,Adopt,Tools/Techniques,FALSE,Expression Engine
+Flutter,Adopt,Development/Frameworks,FALSE,Flutter
+ForgeRock,Evaluate,Auth/Authorization/Access,FALSE,ForgeRock
+Google Analytics 4,Evaluate,Tools/Techniques,FALSE,Google Analytics 4
+Google Universal Analytics,Hold,Tools/Techniques,FALSE,Google Universal Analytics is approaching end of life. Google Analytics 4 should be considered as alternative when looking at implementing this functionality
+Groovy on Grails,Adopt,Development/Frameworks,FALSE,Groovy on Grails
+HI - Lala,Evaluate,Auth/Authorization/Access,FALSE,HI - Lala
+IndexDB,Adopt,Data/Content,FALSE,IndexDB
+Ionic,Adopt,Development/Frameworks,FALSE,Ionic
+JQuery,Adopt,Development/Frameworks,FALSE,JQuery
+JSF,Adopt,Development/Frameworks,FALSE,JSF
+JasperSoft,Hold,Tools/Techniques,FALSE,JasperSoft
+Java 7,Sunset,Development/Frameworks,FALSE,Java 7 is supported till July 2022
+Java MVC Struts,Adopt,Development/Frameworks,FALSE,Java MVC Struts
+Java Script,Adopt,Development/Frameworks,FALSE,Java Script
+Knockout,Adopt,Development/Frameworks,FALSE,Knockout
+Laravel,Evaluate,Development/Frameworks,FALSE,Laravel PHP Framework
+MSP,Sunset,Auth/Authorization/Access,FALSE,NIC Micro Service Platform developed and maintained by the NIC CTO Group. Consist of a nuber of micro services used across the organization. Using MSP for Auth/Authorization/Access is not recommended at this time and TID should be considered as an alternative when needing to implement an Auth/Authorization/Access solution.
+MapBox,Adopt,Tools/Techniques,FALSE,MapBox
+MariaDB,Adopt,Data/Content,FALSE,MariaDB
+Memcached,Adopt,Data/Content,FALSE,Memcached
+Microsoft AD,Sunset,Auth/Authorization/Access,FALSE,Microsoft AD
+Microsoft SQL Server,Adopt,Data/Content,FALSE,Microsoft SQL Server
+Microsoft SSRS,Hold,Tools/Techniques,FALSE,Microsoft SSRS
+Microsoft Sharepoint,Hold,Data/Content,FALSE,Microsoft Sharepoint
+Microsoft Windows,Adopt,Tools/Techniques,FALSE,Microsoft Windows
+Mini Orange SSO,Evaluate,Auth/Authorization/Access,FALSE,Mini Orange SSO
+Mongo DB,Adopt,Data/Content,FALSE,Mongo DB
+MotionPoint,Adopt,Tools/Techniques,FALSE,MotionPoint
+MuleSoft,Adopt,Tools/Techniques,FALSE,MuleSoft
+MySQL,Adopt,Data/Content,FALSE,MySQL
+NIC CDB,Sunset,Auth/Authorization/Access,FALSE,NIC CDB is billing and payment scheduling component of the NIC Payment ecosystem. Although NIC CDB could be used for Auth/Authorization/Access it is not intended as an Auth/Authorization/Access solution and should be replaced when used for that purpose. Using CDB for Auth/Authorization/Access has the potential to impact PCI scope for applications.
+NIC ID,Hold,Auth/Authorization/Access,FALSE,NIC ID
+Native Mobile,Adopt,Development/Frameworks,FALSE,Native Mobile
+New Relic,Adopt,Tools/Techniques,FALSE,New Relic
+NodeJS,Adopt,Development/Frameworks,FALSE,NodeJS
+Okta,Adopt,Auth/Authorization/Access,FALSE,Okta
+Open LDAP,Sunset,Auth/Authorization/Access,FALSE,Open LDAP
+Oracle Linux,Sunset,Tools/Techniques,FALSE,Oracle Linux
+Oracle,Hold,Data/Content,FALSE,Oracle
+PHP,Hold,Development/Frameworks,FALSE,PHP
+Perl,Hold,Development/Frameworks,FALSE,Perl
+Phusion Passenger,Hold,Tools/Techniques,FALSE,Phusion Passenger
+PostgreSQL,Adopt,Data/Content,FALSE,PostgreSQL
+Python,Adopt,Development/Frameworks,FALSE,Python
+RHEL,Sunset,Tools/Techniques,FALSE,RHEL
+React Native,Adopt,Development/Frameworks,FALSE,React Native
+React,Adopt,Development/Frameworks,FALSE,React
+Redhat IPA,Sunset,Auth/Authorization/Access,FALSE,Redhat IPA
+Redis,Adopt,Data/Content,FALSE,Redis
+Rocky Linux,Evaluate,Tools/Techniques,FALSE,Rocky Linux
+Ruby on Rails,Hold,Development/Frameworks,FALSE,Ruby on Rails
+SQLite,Adopt,Data/Content,FALSE,SQLite
+SiteCore,Adopt,Data/Content,FALSE,SiteCore
+Smartling,Adopt,Tools/Techniques,FALSE,Smartling
+Socrata,Evaluate,Tools/Techniques,FALSE,Socrata
+Spring Boot,Adopt,Development/Frameworks,FALSE,Spring Boot
+Spring Security,Sunset,Auth/Authorization/Access,FALSE,Spring Security
+TID-C,Adopt,Auth/Authorization/Access,FALSE,Single sign on solution developed by Tyler and based on Okta. TID-C is intended to be used for citizen IDs.
+TID-W,Adopt,Auth/Authorization/Access,FALSE,Single sign on solution developed by Tyler and based on Okta. TID-W is intended to be used for agency user IDs.
+Tableau,Evaluate,Tools/Techniques,FALSE,Tableau
+Telerik,Evaluate,Tools/Techniques,FALSE,Telerik
+Ubuntu,Hold,Tools/Techniques,FALSE,Ubuntu
+Umbraco,Adopt,Data/Content,FALSE,Umbraco
+UptimeRobot,Adopt,Tools/Techniques,FALSE,UptimeRobot
+Vue JS,Adopt,Development/Frameworks,FALSE,Vue JS
+Wordpress,Adopt,Data/Content,FALSE,Wordpress
+Xamarin,Hold,Development/Frameworks,FALSE,Xamarin
+iOS,Adopt,Tools/Techniques,FALSE,iOS
+Azure AD,Adopt,Auth/Authorization/Access,FALSE,Single Sign On

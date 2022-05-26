@@ -1,0 +1,74 @@
+name,ring,quadrant,isNew,description
+AccessGov,Adopt,NIC,FALSE,"AccessGov is a low-code, self-service tool designed to simplify the common tasks of collecting & processing data related to digital government transactions. Originally developed by the Montana team, AccessGov is maintained and enhanced by the Licensing Vertical team in the NIC division. Using a low-code tool can reduce maintenance challenges with custom-developed web applications and allows easier sharing of those forms across state enterprises. This can speed up the time to deliver a service and even put control of that service in the hands of our state partners through the self-service console. AccessGov is delivered through Azure and can scale to meet the needs of any state enterprise. This puts it as the go-to solution for quick forms and part of the NIC Enterprise Foundation Platform."
+Microsoft Exchange,Hold,COTS,FALSE,"Microsoft Exchange  is a solution that delivers email, calendar, contacts, and tasks from PCs, the web, and mobile devices.  The Infrastrubure group manages Exchange.  Exchange is one of the  primary communication tools at the company.  "
+DataDog,Evaluate,COTS,FALSE,"Datadog is an observability service for cloud-scale applications, providing monitoring of servers, databases, tools, and services, through a SaaS-based data analytics platform.  <<Managed by Tyler>> .   <<This is a tool for monitoring.>>"
+Funnelback,Evaluate,COTS,FALSE,Funnelback
+Monetra,Adopt,COTS,FALSE,"Monetra is a fast, efficient and secure payment application. It's designed to scale from small custom embedded devices to fully redundant payment servers processing thousands of transactions per minute. Trusted for over 20 years by thousands of merchants throughout North America, Monetra is the premier product of its type."
+MioSoft,Hold,COTS,FALSE,MioSoft
+SQUIZ,Hold,COTS,FALSE,SQUIZ
+AppEngine,Hold,NIC,FALSE,"AppEngine is a low-code tool designed to simplify the common tasks of collecting & processing data related to digital government transactions. Initially developed by the Kentucky team, AppEngine is maintained and enhanced by the Licensing Vertical team in the NIC division. Using a low-code tool can reduce maintenance challenges with custom-developed web applications and allows easier sharing of those forms across state enterprises. NIC hosts AppEngine in its colocation data centers. AccessGov should be considered as an alternative when implementing a low code environment."
+CCP,Adopt,NIC,FALSE,"CCP is an online payment checkout page added to e-commerce applications as a PCI Compliant SaaS component. The Texas state enterprise developed CCP, and the Payment Product Vertical maintains the CCP application. CCP is a turnkey, secure payment solution integrated into NIC's TPE for payment processing, disbursements, and reconciliation.  "
+CDB,Adopt,NIC,FALSE,"NIC central IT developed CDB as the first NIC centralized application. CDB fulfills the core business functionality of billing, invoicing, and scheduled payments. CDB also exposes many other key functionalities not related to billing. The Payment Vertical of the NIC Division maintains the CDB application. CDB is the heart of the financial payment system.  "
+Devices Client,Hold,NIC,FALSE,The device's client is a client-installed application that bridges the USB Payment Device to the Browser-Based Application. NIC Central ID Developed the Devices Client application and continues to maintain it today. The Devices Client application plays a crucial role in enabling device-based over-the-counter payments through TPE.
+ELP,Adopt,NIC,FALSE,"ELP is a configuration-first, low-code pluggable Application Framework. NIC's central IT developed ELP. The Licensing Vertical now maintains ELP. ELP is a Multi-tenant Cloud (AWS) hosted SaaS solution that supports “configure first” when adding additional tenants and license types and provides back-end administration functionality for managing licenses."
+Event Registration,Sunset,NIC,FALSE,Event Registration is a configurable SaaS solution that allows people to register for events. This application is sunset.
+Gov2Go,Adopt,NIC,FALSE,Gov2Go is a citizen engagement platform developed by the Arkansas portal and was re-platformed by central IT. The Gov2Go Vertical now maintains the Gov2Go application. Gov2Go is the central component of the citizen user experience and is paramount to the NIC Enterprise Foundation Platform. 
+MSP,Adopt,NIC,FALSE,MSP is a Cloud (AWS) hosted microservice platform with many building blocks to support application development. MSP was developed by central IT and is maintained by the MSP vertical of the NIC Division. MSP is an enabling platform to promote innovation and capture economies of scale. MSP is also a central part of the NIC Enterprise Foundation Platform. 
+NIC ID,Hold,NIC,FALSE,"NIC ID is an IAM custom UI fronting of AzureAD.  NIC ID was developed by App Engine, was the first reusable cloud based IAM solution and is planned to be sunset.  "
+NIC Wallet API V2,Adopt,NIC,FALSE,The NIC Wallet API is the Service tier and Component UI for storing payment information for a user and requesting payments through TPE. NIC Central IT developed the NIC Wallet API and the Payment Vertical of the NIC Division maintains the code today. The NIC Wallet API is a java script IFrame that Eliminates PCI scope for applications that leverage it and utilizes identity management to associate a user with a reusable payment method.  
+CardVault / EGX,Sunset,NIC,FALSE,The Card Vault / EGX was developed by Central IT and used identity to associate a user with payment methods. This product is sunset.
+NLS,Adopt,NIC,FALSE,NLS is NIC's Licensing case management platform focused on marijuana licensing. Complia built the first versions which was acquired by NIC in 2019. NLS was built on Camunda open-source workflow framework. Each instance of Complia builds a unique UI on top of a standardized technology stack and is multi-instance.  
+OOD Licenses,Adopt,NIC,FALSE,OOD Licenses is the comprehensive multi-tenant hunting/fishing license SaaS hosted in AWS. OOD License was developed by the Wisconsin portal and then heavily modified by the OOD Vertical who maintains it to this day. The OOD Licensing product is NIC's Hunt Fish Licensing Ecommerce solution.  
+OOD Reservations,Hold,NIC,FALSE,Campground Reservations is NIC's custom built campground reservation application deployed in AWS. The one outdoor vertical maintains the software. NIC should look at US eDirect as alternative if this functionality is needed.  
+OTC,Adopt,NIC,FALSE,OTC is NIC's cashiering solution to support over the counter transactions. OTC was originally developed by AIS and is maintained by the Payment Vertical of the NIC Division today. OTC is a simple cashiering solution that is useful for one or two person offices that have over the counter point of sale. US eDirect should be considered if more advanced functionality is needed.
+OTG Mobile Inspections,Adopt,NIC,FALSE,Mobile Inspections application configurable for various uses. Supports offline capability and will sync once connectivity is restored
+OTG Pay Mobile,Adopt,NIC,FALSE,OTG Pay Mobile is a mobile application for processing credit/debit card payments offline or online. The Nebraska Portal developed the OTG Pay Mobile Application and OTG Pay is now maintained by the Payment Vertical of the NIC Division. OTG Pay enables offline payment transactions through a mobile device and leverages TPE for transaction processing.  
+USeDirect ,Adopt,NIC,FALSE,"US eDirect is a flexible reservation system that supports campgrounds, events etc. Supports back office functionality such as facilities management, check-in etc. Point of sale module supports inventory management and can function offline. US eDirect's applications were developed by them and purchased by NIC in 2022. US eDirect maintains the software to date. US eDirect is core to the outdoor recreation space containing more advanced functionality than NIC's offerings for reservation and cashiering."
+RxGov,Adopt,NIC,FALSE,RXGov is NIC's PDMP solution. LeapOrbit built RXGov and NIC subsequently purchased the RXGov Software in 2018 and enhanced the software. The Health Care vertical of NIC maintains the code to date. RXGov is NIC's Multi-instance cloud based (Azure) PDMP.  
+TPE,Adopt,NIC,FALSE,"TPE is the foundation of the NIC's Payment ecosystem. Central IT developed TPE and NIC’s payment vertical now maintains the code.  TPE exposes APIs for payment processing, reports on financial data, and interfaces for the management of payments and financial data.   "
+Vital Records,Sunset,NIC,FALSE,"Vital Records is a multi-tenant SaaS application that supports the purchase of birth certificates, death certificates, and other vital records. Central IT Developed Vital Records and the Health Care vertical with help from AIS and New Jersey now maintain the application.  Vital Records is targeted for sunset."
+Voucher Payment Service,Adopt,NIC,FALSE,"The Voucher Payment Service facilitates cash payments for online transactions by accepting cash at a brick-and-mortar location and issuing a voucher for later use in an online transaction. The NIC Payments Vertical developed the application, and they continue to maintain it. The Voucher Payment Service enables online payments by people who do not have credit cards or checking accounts."
+YourPassNow,Evaluate,NIC,FALSE,Your Pass Now enables the selling state passes to constituents and the validation of state passes by administrators. Your pass now was developed by NIC and is maintained portals and the one outdoor vertical. Your Pass Now is a park pass solution that duplicates some functionality of US eDirect. 
+NIC Wallet API V1,Sunset,NIC,FALSE,The NIC Wallet API is the Service tier and Component UI for storing payment information and requesting payments through TPE. The NIC Wallet API was developed by the Payment Team and is maintained by them to this day. The NIC Wallet API is a java script Iframe that Eliminates PCI scope for applications that leverage it and utilizes identity management to associate a user with a resuable payment method.  
+SmartOnFhir,Adopt,NIC,FALSE,
+Acquia Drupal,Adopt,SAAS,FALSE,Acquia Drupal
+Apple Business Chat,Adopt,SAAS,FALSE,Apple Business Chat
+Azure Bot Services,Adopt,SAAS,FALSE,Azure Bot Services
+Basecamp,Adopt,SAAS,FALSE,Basecamp
+Bridge LMS,Adopt,SAAS,FALSE,Bridge LMS
+Chatbot.com,Adopt,SAAS,FALSE,Chatbot.com
+Confluence,Adopt,SAAS,FALSE,Confluence
+Cronitor,Adopt,SAAS,FALSE,Cronitor
+DataMotion,Hold,SAAS,FALSE,DataMotion
+ESRI,Adopt,SAAS,FALSE,ESRI
+HotJar,Adopt,SAAS,FALSE,HotJar
+Jira Service Managment,Adopt,SAAS,FALSE,Jira Service Managment
+LiveChat,Adopt,SAAS,FALSE,LiveChat
+MapBox,Adopt,SAAS,FALSE,MapBox
+MoveIT,Hold,SAAS,FALSE,MoveIT
+Okta,Adopt,SAAS,FALSE,Okta
+Qualtrics,Hold,SAAS,FALSE,Qualtrics
+QueueIT,Adopt,SAAS,FALSE,QueueIT
+SalesForce,Evaluate,SAAS,FALSE,SalesForce
+Secure ID,Adopt,SAAS,FALSE,Secure ID
+SendGrid,Adopt,SAAS,FALSE,SendGrid
+SmartSheet,Adopt,SAAS,FALSE,SmartSheet
+State Provide CMS,Adopt,SAAS,FALSE,State Provide CMS
+Trumba,Adopt,SAAS,FALSE,Trumba
+Twilio,Adopt,SAAS,FALSE,Twilio
+UptimeRobot,Adopt,SAAS,FALSE,UptimeRobot
+Zendesk,Adopt,SAAS,FALSE,Zendesk
+Zoho,Adopt,SAAS,FALSE,Zoho
+Cashier View,Evaluate,Tyler,FALSE,Cashier View
+CAVU,Evaluate,Tyler,FALSE,CAVU
+EnerGov,Evaluate,Tyler,FALSE,EnerGov
+EntelliTrak,Evaluate,Tyler,FALSE,EntelliTrak
+Enterprise Permitting & Licensing,Evaluate,Tyler,FALSE,Enterprise Permitting & Licensing
+Incode,Evaluate,Tyler,FALSE,Incode
+Socrata,Adopt,Tyler,FALSE,Socrata
+TID-C,Evaluate,Tyler,FALSE,TID-C
+TID-W,Evaluate,Tyler,FALSE,TID-W
+Tyler Payments,Evaluate,Tyler,FALSE,EBPP solution developed and maintain byt the Tyler Payments Team
+Stackshare.io,Evaluate,SAAS,FALSE,"Easily map out which 3rd party or open source libraries & SaaS solutions are being used across your engineering teams, why they're being used, and who someone should talk to about each technology. Technology mapping to Tech Radar is also done to indicate lifecycle of the tech and guide product roadmap."
+Tyler Assurance,Evaluate,Tyler,FALSE,"Tyler Assurance is a Test Automation Platform that specializes in UI Test Automation. Our solution consists of our Automation Framework, Test Results Website, and our online training. https://confl.tylertech.com/display/TylerAssurance/Tyler+Assurance"
+Tyler Forge,Adopt,Tyler,FALSE,Lorem Ipsum
