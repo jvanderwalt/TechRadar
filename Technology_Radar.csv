@@ -45,7 +45,7 @@ Java MVC Struts,Adopt,Development/Frameworks,FALSE,Java MVC Struts
 Java Script,Adopt,Development/Frameworks,FALSE,Java Script
 Knockout,Adopt,Development/Frameworks,FALSE,Knockout
 Laravel,Evaluate,Development/Frameworks,FALSE,Laravel PHP Framework
-MSP,Sunset,Auth/Authorization/Access,FALSE,NIC Micro Service Platform developed and maintained by the NIC CTO Group. Consist of a nuber of micro services used across the organization. Using MSP for Auth/Authorization/Access is not recommended at this time and TID should be considered as an alternative when needing to implement an Auth/Authorization/Access solution.
+MSP Auth Service,Sunset,Auth/Authorization/Access,FALSE,NIC Micro Service Platform developed and maintained by the NIC CTO Group. Consist of a nuber of micro services used across the organization. Using MSP for Auth/Authorization/Access is not recommended at this time and TID should be considered as an alternative when needing to implement an Auth/Authorization/Access solution.
 MapBox,Adopt,Tools/Techniques,FALSE,MapBox
 MariaDB,Adopt,Data/Content,FALSE,MariaDB
 Memcached,Adopt,Data/Content,FALSE,Memcached
