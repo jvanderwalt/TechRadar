@@ -98,3 +98,5 @@ Wordpress,Adopt,Data/Content,FALSE,Wordpress
 Xamarin,Hold,Development/Frameworks,FALSE,Xamarin
 iOS,Adopt,Tools/Techniques,FALSE,iOS
 Azure AD,Adopt,Auth/Authorization/Access,FALSE,Single Sign On
+Auth0,Evaluate,Auth/Authorization/Access,False,IAM Platform
+Login.gov,Hold,Auth/Authorization/Access,False,Federal government IAM solution
