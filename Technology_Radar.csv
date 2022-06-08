@@ -100,3 +100,5 @@ iOS,Adopt,Tools/Techniques,FALSE,iOS
 Azure AD,Adopt,Auth/Authorization/Access,FALSE,Single Sign On
 Auth0,Evaluate,Auth/Authorization/Access,False,IAM Platform
 Login.gov,Hold,Auth/Authorization/Access,False,Federal government IAM solution
+Tyler Assurance,Evaluate,Tools/Techniques,FALSE,"Tyler Assurance is a Test Automation Platform that specializes in UI Test Automation. Our solution consists of our Automation Framework, Test Results Website, and our online training. https://confl.tylertech.com/display/TylerAssurance/Tyler+Assurance"
+Tyler Forge,Adopt,Tools/Techniques,FALSE,RAI design and development framework. Tyler developed and maintained. Built around Tyler branding and standardization
